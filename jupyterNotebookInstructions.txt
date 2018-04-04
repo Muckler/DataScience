@@ -1,0 +1,13 @@
+Please see the following link for running a jupyter notebook
+
+https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
+
+Control C to close IPython Notebook after close and halt notebook in Jupyter Notebook.+
+
+View jupyter notebook html file just host that on a separate page and put on the page that they can download the file from github link attached
+
+set up website www.collaborativesoftware.com 
+
+
+
+
